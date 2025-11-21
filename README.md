@@ -37,6 +37,8 @@ Property Type
 
 Property Name
 
+Floor
+
 Area (Sq. Ft)
 
 Property Status (Ready / Under Construction)
